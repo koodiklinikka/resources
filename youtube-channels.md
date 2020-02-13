@@ -80,3 +80,14 @@ Sit sijoitusjutuista:
 -----
 
 * tää on kyl ehdottomasti paras matikka-aiheinen kanava, toi python frameworkki millä nuo kaikki animaatiot on tehty on kans saatavilla githubissa https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+
+@mutjake
+--------
+
+Tässä pari tietoturhakanavaa noin lennosta:
+
+* https://www.youtube.com/user/gamozolabs
+* https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+* https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+* https://www.youtube.com/user/Hak5Darren/videos
+* https://www.youtube.com/channel/UC4PBNDLlS4d75MP0xxcukGA
