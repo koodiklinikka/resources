@@ -59,6 +59,7 @@ Sit sijoitusjutuista:
 ----
 
 * https://www.youtube.com/user/shironekoshiro
+* https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA
 
 @trautonen
 ----------
@@ -91,3 +92,5 @@ Tässä pari tietoturhakanavaa noin lennosta:
 * https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
 * https://www.youtube.com/user/Hak5Darren/videos
 * https://www.youtube.com/channel/UC4PBNDLlS4d75MP0xxcukGA
+
+Ja bonuksena kokkailua ja ties mitä kaivurin johtosarjojen ja webastohäkkäilyjen touhuamisia: https://www.youtube.com/channel/UCFj0zvib1LFAcpu3B5bh9Hg/videos
