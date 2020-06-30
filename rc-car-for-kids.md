@@ -7,4 +7,4 @@ RC-Auto lapselle
 Tehoa saa säädettyä ohjaimesta, joten sopii ensimmäiseksi autoksi noin 5v lapselle, mutta on hauska aikuisellekin.
 
 
-Banggoodista ei nykyään saa tilattua akkuja, mutta esim Hobbykingistä [tämä](https://hobbyking.com/en_us/zippy-compact-850mah-2s-25c-lipo-pack.html?___store=en_us) pitäisi sopia (varmistan kun saan auton):
+Banggoodista ei nykyään saa tilattua akkuja, mutta esim Hobbykingistä [ZIPPY Compact 850mAh 2S 25C Lipo Pack](https://hobbyking.com/en_us/zippy-compact-850mah-2s-25c-lipo-pack.html?___store=en_us) sopii autoon hyvin. On vähän auton mukana tulevaa akkua isompi, mutta mahtuu.
