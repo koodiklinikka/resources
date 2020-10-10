@@ -57,8 +57,66 @@ YouTube Channels
 
 | URL  | Nimi | Mitä | 
 |---|---| --- |
-https://www.youtube.com/user/aragusea | Adamn Ragusea |  |
-https://www.youtube.com/user/FrenchGuyCooking | French Guy Cooking| French Guy Cooking
+| https://www.youtube.com/user/aragusea | Adam Ragusea | Very focused technical cooking  |
+| https://www.youtube.com/user/FrenchGuyCooking | French Guy Cooking| Technical cooking with extreme dedication to perfectionism |
+| https://www.youtube.com/user/AllasYummyFood | Alla | High quality deserts with some light healthy dishes as well |
+| https://www.youtube.com/user/AllrecipesUK | AllRecipes UK & Ireland | Short everyday recipes |
+| https://www.youtube.com/channel/UCfDNi1aEljAQ17mUrfUjkvg | Alton Brown | Entertaining cooking |
+| https://www.youtube.com/user/bgfilms | Babish | Highly technical cooking |
+| https://www.youtube.com/c/bonappetit/videos | Bon Apetit | Professional chefs show everyday recipes |
+| https://www.youtube.com/channel/UCLQ4X5SZ9pEf8tawZQm9Q_w | Buff Dudes Food | Recipes for bodybuilders |
+| https://www.youtube.com/user/ByronTalbott | Byron Talbott | Professional chef shows some everyday cooking |
+| https://www.youtube.com/user/chefsteps | Chef Steps | Short professional recipes |
+| https://www.youtube.com/channel/UC54SLBnD5k5U3Q6N__UjbAw | Chinese Cooking Demystified | Authentic Chinese cooking |
+| https://www.youtube.com/channel/UCBAYajvDy1-R8D0aaPaleaw | Cookat | Very short asian style recipes |
+| https://www.youtube.com/user/CookinginRussia | Cooking in Russia | American chef shows some professional restaurant recipes |
+| https://www.youtube.com/user/stillcurrentstudios | Edgy Veg | Vegan recipes |
+| https://www.youtube.com/user/emmasgoodies | Emmas Goodies | Short recipes, mostly deserts |
+| https://www.youtube.com/user/emmymadeinjapan | Emmy Made in Japan | Odd / weird recipes and foods |
+| https://www.youtube.com/channel/UCDq5v10l4wkV5-ZBIJJFbzQ | Ethan Chlebowski | Professional entertaining cooking |
+| https://www.youtube.com/channel/UCcN54GrpL2nkkecIvsIsM7A | Filip Poon | Swedish home cooking |
+| https://www.youtube.com/user/foodwishes | Food Wishes | Chef John shows professional home cooking, hundreds of great recipes |
+| https://www.youtube.com/user/gordonramsay | Gordon Ramsay | Professional chef cooks at home |
+| https://www.youtube.com/channel/UC1of9ELYwB623fWaAMRDVFA | Grandpa Kitchen | Indian cooking for hundreds of orphan children |
+| https://www.youtube.com/channel/UCaUR4ViaAVLLzKQ2ex6u1Sg | Happy Wok | Authentic Chinese home cooking |
+| https://www.youtube.com/channel/UCDfYD_hJnOTq4g5EDun-cdg | Hard Kokki | Entertaining Finnish home cooking |
+| https://www.youtube.com/user/HeadbangersKitchen | Headbanger's Kitchen | Heavy metal musician cooks keto food |
+| https://www.youtube.com/user/NoVeKitchenAndBar | Diaries of a master sushi chef | Professional japanese chef cooks at home |
+| https://www.youtube.com/channel/UCioZY1p0bZ4Xt-yodw8_cBQ | How to drink | Drink recipes |
+| https://www.youtube.com/user/inspiredtaste/videos | Inspired taste | Various health foods and deserts |
+| https://www.youtube.com/user/kenjialt | J Kenji Lopez-Alt | Professional chef cooks at home |
+| https://www.youtube.com/user/JamieOliver | Jamie Oliver | Professional chef cooks for family |
+| https://www.youtube.com/channel/UChBEbMKI1eCcejTtmI32UEw | Joshua Weisman | Entertaining skilled cooking at home |
+| https://www.youtube.com/user/JunsKitchen | Juns Kitchen | Professional Japanese chef cooks at home |
+| https://www.youtube.com/channel/UCzRYivTpUQ0r2qPPjfLoQiA | Keto Connect | Keto cooking at home |
+| https://www.youtube.com/user/kvalifood | Kvalifood | Various home cooking recipes |
+| https://www.youtube.com/user/NocturnoPlays | Life of Boris | Russian everyday cooking |
+| https://www.youtube.com/channel/UC9aCq0_szD3zG2WPMovQqpQ | Low carb recipes with Jennifer | Keto cooking at home |
+| https://www.youtube.com/user/Maangchi | Maangchi | Great Korean cooking at home |
+| https://www.youtube.com/user/MallardProductionsUK | Marco | Michelin chef cooks simple dishes |
+| https://www.youtube.com/channel/UCcomGqp2D49N886bWBQ9OLg | Markus Aujalay | Swedish home cooking from professional chef |
+| https://www.youtube.com/user/KetoDietBlog | Martina Slajerova - Keto Diet | Keto recipes |
+| https://www.youtube.com/user/MrTuomo | Mr Tuomo | Amateur cooking at home |
+| https://www.youtube.com/user/antoineshapiro | My name is Andong | Very technical and entertaining cooking of various recipes from around the world |
+| https://www.youtube.com/channel/UCr_RedQch0OK-fSKy80C3iQ | Oh Yum with Anna Olson | Great deserts and everyday dishes |
+| https://www.youtube.com/user/PailinsKitchen | Pailin's Kitchen | Well made and informative South East Asian recipes |
+| https://www.youtube.com/user/pastagrannies | Pasta Grannies | Authentic and original pasta recipes from Italian villages |
+| https://www.youtube.com/user/ryoya1983 |Peaceful Cuisine | Various asian style recipes |
+| https://www.youtube.com/user/BrothersGreenEats | Pro Home Cooks | Entertaining and technical home recipes |
+| https://www.youtube.com/channel/UCyKSvsFi9LKxNKxMsUAuL_w | Resepti | Finnish home cooking |
+| https://www.youtube.com/channel/UC3HjB3X8jeENm46HCkI0Inw | Souped up recipes | Traditional chinese cooking |
+| https://www.youtube.com/channel/UCpFuaxD-0PKLolFR3gWhrMw | Sous Vide Everything | Sous vide taken to extreme |
+| https://www.youtube.com/channel/UCqZ8IpRdoyQ3Qj0ogpUniAA | The Cooking Foodie | Short home cooking recipes |
+| https://www.youtube.com/channel/UCbgYZnybgb6vPSBTxZUT2kA | Veg Village Food | Indian cooking for hundreds of children |
+| https://www.youtube.com/user/wolfgangbuzz | Wolfgang Puck | Celebrity Chef shows luxury dishes |
+| https://www.youtube.com/channel/UCPWFxcwPliEBMwJjmeFIDIg | One Meal a Day | Korean dishes |
+
+
+
+
+
+
+
 
 ## Kuntoilu
 | URL  | Nimi | Mitä | 
