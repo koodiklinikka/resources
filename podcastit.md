@@ -15,8 +15,8 @@
 
 | Nimi  | Mitä |
 |---|---|
-| Darknet Diaries  |   |
-|   |   |
+| Darknet Diaries  | Tietoturvaan ja internetin pimeään puoleen liittyvää tutkintaa ja keskustelua |
+|  |   |
 |  |   |
 
 ## Humanistitieteet
@@ -43,6 +43,11 @@
 | Aristoteleen Kantapää | Huumoria ja tietoa suomen kielestä |
 | Auta Antti | Auttavaksi puhelimeksi maskeerattu sukellus Antti Holman psyykkeeseen |
 | Radio Sodoma | Fiktionaalinen Helvetin Radion -radioshow. Antti Holmaa. |
+| Radio Kipinä | Asiaa maanpuolustuksesta ja puolustusvoimista |
+
 
 
 ### Englanti
+
+| Nimi | Mitä |
+| Power Corrupts | Podcast about the hidden, and often nefarious forces that shape our world. |
