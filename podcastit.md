@@ -1,6 +1,5 @@
 # Podcastit
 
-
 ## Tietosurma
 
 ### Suomi
@@ -50,4 +49,5 @@
 ### Englanti
 
 | Nimi | Mitä |
-| Power Corrupts | Podcast about the hidden, and often nefarious forces that shape our world. |
+
+| Power Corrupts | Podcast about the hidden, and often nefarious forces that shape our world. |
