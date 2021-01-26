@@ -6,9 +6,11 @@
 
 | Nimi  | Mitä |
 |---|---|
-| Herrasmieshakkerit  | Mikko Hyppönen ja Tomi Tuominen haastattelevat kybertuhoon liittyvistä asioista ja ilmiöistä |
 |   |   |
 |  |   |
+| [Herrasmieshakkerit](https://www.f-secure.com/fi/business/podcasts/herrasmieshakkerit)   | Mikko Hyppönen ja Tomi Tuominen haastattelevat kybertuhoon liittyvistä asioista ja ilmiöistä |
+| [Koodia pinnan alla](https://koodiapinnanalla.fi/) | Suomenkielinen podcast pinnan alla tapahtuvasta ohjelmistoteknologian magiasta. |
+| [Webbidevaus.fi](https://webbidevaus.fi) | Webbidevaus.fi -podcast on internetissä suunnilleen viikoittain ilmestyvä, web-kehityksestä kertova suomenkielinen puheradio-ohjelma |
 
 ### Englanti
 
@@ -32,8 +34,8 @@
 
 | Nimi  | Mitä |
 |---|---|
+| [Conan O'Brien Needs a Friend](https://www.earwolf.com/show/conan-obrien/) | Conan O'Brienin show joka perustuu niin ikään kuuluisuuksien haastatteluun (lähinnä komedian saralta) |
 | Joe Rogan experience | Joe Rogan haastattelee jenkkikuuluisuuksia ja MMA-kavereita |
-| Conan O'brien wants a friend | Conan O'Brienin show joka perustuu niin ikään kuuluisuuksien haastatteluun (lähinnä komedian saralta) |
 
 ### Suomi
 
@@ -43,6 +45,7 @@
 | Auta Antti | Auttavaksi puhelimeksi maskeerattu sukellus Antti Holman psyykkeeseen |
 | Radio Sodoma | Fiktionaalinen Helvetin Radion -radioshow. Antti Holmaa. |
 | Radio Kipinä | Asiaa maanpuolustuksesta ja puolustusvoimista |
+| [Uutisraportti podcast](https://soundcloud.com/uutisraportti) | Uutisraportti podcastissa ajankohtaisista aiheista puhutaan niin kuin toimittajat puhuvat niistä töiden jälkeen drinksuilla: mielenkiintoisesti ja turhia jännittämättä. |
 
 
 
