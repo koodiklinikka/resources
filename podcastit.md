@@ -6,8 +6,6 @@
 
 | Nimi  | Mitä |
 |---|---|
-|   |   |
-|  |   |
 | [Herrasmieshakkerit](https://www.f-secure.com/fi/business/podcasts/herrasmieshakkerit)   | Mikko Hyppönen ja Tomi Tuominen haastattelevat kybertuhoon liittyvistä asioista ja ilmiöistä |
 | [Koodia pinnan alla](https://koodiapinnanalla.fi/) | Suomenkielinen podcast pinnan alla tapahtuvasta ohjelmistoteknologian magiasta. |
 | [Webbidevaus.fi](https://webbidevaus.fi) | Webbidevaus.fi -podcast on internetissä suunnilleen viikoittain ilmestyvä, web-kehityksestä kertova suomenkielinen puheradio-ohjelma |
@@ -17,8 +15,6 @@
 | Nimi  | Mitä |
 |---|---|
 | Darknet Diaries  | Tietoturvaan ja internetin pimeään puoleen liittyvää tutkintaa ja keskustelua |
-|  |   |
-|  |   |
 
 ## Humanistitieteet
 
@@ -27,8 +23,6 @@
 | Nimi  | Mitä |
 |---|---|
 | Filosofia ja systeemiajattelu  | Esa Saarisen luentosarja |
-|   |   |
-|  |   |
 
 ## Viihde
 
