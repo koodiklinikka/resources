@@ -39,7 +39,7 @@
 | Auta Antti | Auttavaksi puhelimeksi maskeerattu sukellus Antti Holman psyykkeeseen |
 | Radio Sodoma | Fiktionaalinen Helvetin Radion -radioshow. Antti Holmaa. |
 | Radio Kipinä | Asiaa maanpuolustuksesta ja puolustusvoimista |
-| [Uutisraportti podcast](Uutisraportti) | Uutisraportti podcastissa ajankohtaisista aiheista puhutaan niin kuin toimittajat puhuvat niistä töiden jälkeen drinksuilla: mielenkiintoisesti ja turhia jännittämättä. |
+| [Uutisraportti podcast][Uutisraportti] | Uutisraportti podcastissa ajankohtaisista aiheista puhutaan niin kuin toimittajat puhuvat niistä töiden jälkeen drinksuilla: mielenkiintoisesti ja turhia jännittämättä. |
 
 [Uutisraportti]: https://soundcloud.com/uutisraportti
 
