@@ -6,10 +6,10 @@
 
 | Nimi  | Mitä |
 |---|---|
-| [Herrasmieshakkerit](Herrasmieshakkerit) | Mikko Hyppönen ja Tomi Tuominen haastattelevat kybertuhoon liittyvistä asioista ja ilmiöistä |
-| [Koodarikuiskaaja](Koodarikuiskaaja) | Koodarikuiskaajan podcast on tehty uteliaille teknisille asiantuntijoille, joita kiinnostavat vuorovaikutuksen ja itsetuntemuksen teemat. Jaksoissa käsitellään erilaisia teknologia-alan arkeen liittyviä ihmisaiheita ja vieraina on mielenkiintoisia tyyppejä. |
-| [Koodia pinnan alla](KPA) | Suomenkielinen podcast pinnan alla tapahtuvasta ohjelmistoteknologian magiasta. |
-| [Webbidevaus.fi](Webbidevaus.fi) | Webbidevaus.fi -podcast on internetissä suunnilleen viikoittain ilmestyvä, web-kehityksestä kertova suomenkielinen puheradio-ohjelma |
+| [Herrasmieshakkerit][Herrasmieshakkerit] | Mikko Hyppönen ja Tomi Tuominen haastattelevat kybertuhoon liittyvistä asioista ja ilmiöistä |
+| [Koodarikuiskaaja][Koodarikuiskaaja] | Koodarikuiskaajan podcast on tehty uteliaille teknisille asiantuntijoille, joita kiinnostavat vuorovaikutuksen ja itsetuntemuksen teemat. Jaksoissa käsitellään erilaisia teknologia-alan arkeen liittyviä ihmisaiheita ja vieraina on mielenkiintoisia tyyppejä. |
+| [Koodia pinnan alla][KPA] | Suomenkielinen podcast pinnan alla tapahtuvasta ohjelmistoteknologian magiasta. |
+| [Webbidevaus.fi][Webbidevaus.fi] | Webbidevaus.fi -podcast on internetissä suunnilleen viikoittain ilmestyvä, web-kehityksestä kertova suomenkielinen puheradio-ohjelma |
 
 [Herrasmieshakkerit]: https://www.f-secure.com/fi/business/podcasts/herrasmieshakkerit
 [Koodarikuiskaaja]: https://koodarikuiskaaja.fi/podcast/
