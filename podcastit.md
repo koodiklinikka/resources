@@ -47,7 +47,7 @@
 
 | Nimi | Mitä |
 |---|---|
-| [Conan O'Brien Needs a Friend](Conan) | Conan O'Brienin show joka perustuu niin ikään kuuluisuuksien haastatteluun (lähinnä komedian saralta) |
+| [Conan O'Brien Needs a Friend][Conan] | Conan O'Brienin show joka perustuu niin ikään kuuluisuuksien haastatteluun (lähinnä komedian saralta) |
 | Joe Rogan experience | Joe Rogan haastattelee jenkkikuuluisuuksia ja MMA-kavereita |
 | Power Corrupts | Podcast about the hidden, and often nefarious forces that shape our world. |
 
