@@ -1,20 +1,16 @@
-# Android-softaa
+# Mobiilisoftaa
 
 ## Meditointi / Mindfullness
 
-Android & iOS
-
-| Nimi | Mitä |
-| :--- | :--- |
-| WakingUp | Meditoinnin opiskeluun |
-| HeadSpace | Mindfullness-harjoitteita |
-| Calm | Lisää mindfullnessia |
+| Nimi | Mitä | Käyttöjärjestelmä |
+| :--- | :--- | :--- |
+| WakingUp | Meditoinnin opiskeluun | Android, iOS |
+| HeadSpace | Mindfullness-harjoitteita | Android, iOS |
+| Calm | Lisää mindfullnessia | Android, iOS |
 
 ## Podcasts
 
-Android & iOS
-
-| Nimi | Mitä |
-| :--- | :--- |
-| PocketCasts | Riittävän simppeli, riittävän kyvykäs |
+| Nimi | Mitä | Käyttöjärjestelmä |
+| :--- | :--- | :--- |
+| [Pocket Casts](https://www.pocketcasts.com/) | Riittävän simppeli, riittävän kyvykäs | Android, iOS |
 
