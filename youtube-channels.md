@@ -1,4 +1,4 @@
-# Youtube-kanavia
+# YouTube-kanavia
 
 ## YouTube Channels
 
@@ -126,8 +126,11 @@
 | [https://www.youtube.com/user/NocturnoPlays](https://www.youtube.com/user/NocturnoPlays) | Life of Boris | variety of Slav Gaming, Cooking, Car reviews, Animation and Tutorials content, including Slav games, GTA gameplay, Gaming, Budget recipes, Slav cooking, DIY guides, Country Reviews, m,Language lessons and animated content. |
 | [https://www.youtube.com/user/badobsessionmsport](https://www.youtube.com/user/badobsessionmsport) | Bad Obsession Motorsport | This is the place for all the lunacy and crazy ideas from Bad Obsession Motorsport. We're a leading race and rally car preparation company specializing in projects that are just a little bit mad. |
 | [https://www.youtube.com/user/shironekoshiro](https://www.youtube.com/user/shironekoshiro) | かご猫 Ｂｌｏｇ | Kissoja |
-
-[https://www.youtube.com/channel/UChWv6Pn\_zP0rI6lgGt3MyfA\|](https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA|) AvE\| ?\| \| [https://www.youtube.com/channel/UCsvn\_Po0SmunchJYOWpOxMg](https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg) \| videogamedunkey \| typerän hauskoja pelivideoita \| \| [https://www.youtube.com/channel/UCPXRxl7CZgEPYtUtrpu\_RlA](https://www.youtube.com/channel/UCPXRxl7CZgEPYtUtrpu_RlA) \| Juufin \| Realityohjelmien metakatselua, "roisi sohvaperunat"? \| \| [https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ](https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ) \| LastWeekTonight \| Ainoan jenkkilästä tulevan olennaisen ajankohtaisohjelman kanava \| \| [https://www.youtube.com/channel/UCc9CjaAjsMMvaSghZB7-Kog](https://www.youtube.com/channel/UCc9CjaAjsMMvaSghZB7-Kog) \| BeardMeatsFood \| Parrakas mies syö todella paljon ruokaa. Ehkä fetissikanava \|
+| [https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA](https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA) | AvE | ? |
+| [https://www.youtube.com/channel/UCsvn\_Po0SmunchJYOWpOxMg](https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg) | videogamedunkey | typerän hauskoja pelivideoita |
+| [https://www.youtube.com/channel/UCPXRxl7CZgEPYtUtrpu\_RlA](https://www.youtube.com/channel/UCPXRxl7CZgEPYtUtrpu_RlA) | Juufin | Realityohjelmien metakatselua, "roisi sohvaperunat"? |
+| [https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ](https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ) | LastWeekTonight | Ainoan jenkkilästä tulevan olennaisen ajankohtaisohjelman kanava |
+| [https://www.youtube.com/channel/UCc9CjaAjsMMvaSghZB7-Kog](https://www.youtube.com/channel/UCc9CjaAjsMMvaSghZB7-Kog) | BeardMeatsFood | Parrakas mies syö todella paljon ruokaa. Ehkä fetissikanava |
 
 ## Tiede
 

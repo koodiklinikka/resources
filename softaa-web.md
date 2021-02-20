@@ -8,8 +8,13 @@ Eli sellaista jota voi käyttää selaimella jokseenkin alustariippumattomasti
 | :--- | :--- |
 | [Jira](https://www.atlassian.com/fi/software/jira) | Hirviö joka taipuu lähes mihin tahansa, mutta vaatii substanssiosaamista tunkkauksen osalta |
 | [Trello](https://trello.com/fi) | Yksinkertainen kanban |
-| [Github projects](https://github.com/features/project-management/) | Githubin kylkiäinen, kanban etc. |
+| [GitHub Projects](https://github.com/features/project-management/) | GitHubin kylkiäinen, Kanban etc. |
 | [ClickUp](https://clickup.com/) | Jotain Trellon ja Jiran väliltä, erilaisia näkymiä ja tikettitasoja. Omaksuttavissa päivässä-parissa. |
+
+## Web-kehitys
+
+| Nimi | Mitä |
+| :--- | :--- |
 | [Neumorphism](https://neumorphism.io/#ffffff/) | Visuaalinen nettisivun CSS tyylityökalu |
 | [Netlify](https://www.netlify.com/) | Toimiva nettisivu hosting-alusta |
 

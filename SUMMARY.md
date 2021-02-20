@@ -6,5 +6,5 @@
 * [Slack-teema](slack-theme.md)
 * [Android-softaa](softaa-mobiili.md)
 * [Webbisoftaa](softaa-web.md)
-* [Youtube-kanavia](youtube-channels.md)
+* [YouTube-kanavia](youtube-channels.md)
 
