@@ -61,7 +61,8 @@ RSS-feed on vapaaehtoinen, mutta suositeltava, koska monet tykkäävät käyttä
       <td style="text-align:left">Juho Ylikyl&#xE4;</td>
       <td style="text-align:left"><a href="https://koodihommia.blogspot.com/">https://koodihommia.blogspot.com/</a>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><a href="https://koodihommia.blogspot.com/atom.xml">https://koodihommia.blogspot.com/atom.xml</a>
+      </td>
       <td style="text-align:left">P&#xE4;&#xE4;asiassa omista sivuprojekteista, hieman p&#xE4;iv&#xE4;t&#xF6;ist&#xE4;kin</td>
     </tr>
     <tr>
