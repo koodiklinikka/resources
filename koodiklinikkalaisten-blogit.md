@@ -73,6 +73,38 @@ RSS-feed on vapaaehtoinen, mutta suositeltava, koska monet tykkäävät käyttä
       </td>
       <td style="text-align:left">Enimm&#xE4;kseen devauskirjoittelua, viime vuosina enimm&#xE4;kseen Swift-aiheista.</td>
     </tr>
+    <tr>
+      <td style="text-align:left">Risto Viitanen</td>
+      <td style="text-align:left"><a href="https://willitai.com/">https://willitai.com/</a>
+      </td>
+      <td style="text-align:left"><a href="https://willitai.com/atom.xml">https://willitai.com/atom.xml</a>
+      </td>
+      <td style="text-align:left">Blogi perinteisten algoritmien korvaamisesta huonoilla neuroverkkototeutuksilla</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Tatu Sepp&#xE4;-Lassila</td>
+      <td style="text-align:left"><a href="https://tatusl.dev/">https://tatusl.dev/</a>
+      </td>
+      <td style="text-align:left"><a href="https://tatusl.dev/posts/index.xml">https://tatusl.dev/posts/index.xml</a>
+      </td>
+      <td style="text-align:left">Yleist&#xE4; ATK-jutuista, p&#xE4;&#xE4;osin DevOps-kulmalla</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Tero Veps&#xE4;l&#xE4;inen</td>
+      <td style="text-align:left"><a href="https://www.vepsalainen.eu/">https://www.vepsalainen.eu/</a>
+      </td>
+      <td style="text-align:left"><a href="https://vepsalainen.eu/index.xml">https://vepsalainen.eu/index.xml</a>
+      </td>
+      <td style="text-align:left">ATK-hommeleita, l&#xE4;hinn&#xE4; puuhastelutasolla. Lukeminen ei vaadi
+        rajatonta pohjaosaamista.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Otto Rask</td>
+      <td style="text-align:left"><a href="https://www.ottorask.com/">https://www.ottorask.com/</a>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">osin aika harvakseltaan tulee kirjoteltua mitaan, devaamista ja omia harrastuksia</td>
+    </tr>
   </tbody>
 </table>
 
