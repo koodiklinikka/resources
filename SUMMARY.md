@@ -7,4 +7,5 @@
 * [Android-softaa](softaa-mobiili.md)
 * [Webbisoftaa](softaa-web.md)
 * [YouTube-kanavia](youtube-channels.md)
+* [Koodiklinikkalaisten blogit](koodiklinikkalaisten-blogit.md)
 
