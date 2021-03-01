@@ -18,26 +18,26 @@ RSS-feed on vapaaehtoinen, mutta suositeltava, koska monet tykkäävät käyttä
   <tbody>
     <tr>
       <td style="text-align:left">juhis</td>
-      <td style="text-align:left"><a href="https://hamatti.org/blog/">https://hamatti.org/blog/</a>
+      <td style="text-align:left"><a href="https://hamatti.org/blog/">URL</a>
       </td>
-      <td style="text-align:left"><a href="https://hamatti.org/feed/feed.xml">https://hamatti.org/feed/feed.xml</a>
+      <td style="text-align:left"><a href="https://hamatti.org/feed/feed.xml">RSS</a>
       </td>
       <td style="text-align:left">Kirjoittelen viikottain teknologiasta, yhteis&#xF6;ist&#xE4; ja el&#xE4;m&#xE4;st&#xE4;.</td>
     </tr>
     <tr>
       <td style="text-align:left">Juho Veps&#xE4;l&#xE4;inen</td>
-      <td style="text-align:left"><a href="https://survivejs.com/blog/">https://survivejs.com/blog/</a>
+      <td style="text-align:left"><a href="https://survivejs.com/blog/">URL</a>
       </td>
-      <td style="text-align:left"><a href="https://survivejs.com/atom.xml">https://survivejs.com/atom.xml</a>
+      <td style="text-align:left"><a href="https://survivejs.com/atom.xml">RSS</a>
       </td>
       <td style="text-align:left">l&#xE4;hinn&#xE4; devaajahaastatteluja (vinkkej&#xE4; otetaan vastaan)
         ja satunnaisia kirjahommia ja tekkiblogautuksia</td>
     </tr>
     <tr>
       <td style="text-align:left">Kari Marttila</td>
-      <td style="text-align:left"><a href="https://www.karimarttila.fi/">https://www.karimarttila.fi/</a>
+      <td style="text-align:left"><a href="https://www.karimarttila.fi/">URL</a>
       </td>
-      <td style="text-align:left"><a href="https://www.karimarttila.fi/feed.xml">https://www.karimarttila.fi/feed.xml</a>
+      <td style="text-align:left"><a href="https://www.karimarttila.fi/feed.xml">RSS</a>
       </td>
       <td style="text-align:left">
         <p></p>
@@ -49,9 +49,9 @@ RSS-feed on vapaaehtoinen, mutta suositeltava, koska monet tykkäävät käyttä
     </tr>
     <tr>
       <td style="text-align:left">Olavi Haapala</td>
-      <td style="text-align:left"><a href="https://olavihaapala.fi/">https://olavihaapala.fi/</a>
+      <td style="text-align:left"><a href="https://olavihaapala.fi/">URL</a>
       </td>
-      <td style="text-align:left"><a href="https://olavihaapala.fi/feed.xml">https://olavihaapala.fi/feed.xml</a>
+      <td style="text-align:left"><a href="https://olavihaapala.fi/feed.xml">RSS</a>
       </td>
       <td style="text-align:left">Henkil&#xF6;kohtainen blogi, jossa kirjoittelen mm. web suorituskyvyst&#xE4;,
         saavutettavuudesta ja yleens&#xE4;kin asioista, joita tulee devaajan arjessa
@@ -59,48 +59,48 @@ RSS-feed on vapaaehtoinen, mutta suositeltava, koska monet tykkäävät käyttä
     </tr>
     <tr>
       <td style="text-align:left">Juho Ylikyl&#xE4;</td>
-      <td style="text-align:left"><a href="https://koodihommia.blogspot.com/">https://koodihommia.blogspot.com/</a>
+      <td style="text-align:left"><a href="https://koodihommia.blogspot.com/">URL</a>
       </td>
-      <td style="text-align:left"><a href="https://koodihommia.blogspot.com/atom.xml">https://koodihommia.blogspot.com/atom.xml</a>
+      <td style="text-align:left"><a href="https://koodihommia.blogspot.com/atom.xml">RSS</a>
       </td>
       <td style="text-align:left">P&#xE4;&#xE4;asiassa omista sivuprojekteista, hieman p&#xE4;iv&#xE4;t&#xF6;ist&#xE4;kin</td>
     </tr>
     <tr>
       <td style="text-align:left">Juri Pakaste</td>
-      <td style="text-align:left"><a href="https://juripakaste.fi/">https://juripakaste.fi/</a>
+      <td style="text-align:left"><a href="https://juripakaste.fi/">URL</a>
       </td>
-      <td style="text-align:left"><a href="https://juripakaste.fi/atom.xml">https://juripakaste.fi/atom.xml</a>
+      <td style="text-align:left"><a href="https://juripakaste.fi/atom.xml">RSS</a>
       </td>
       <td style="text-align:left">Enimm&#xE4;kseen devauskirjoittelua, viime vuosina enimm&#xE4;kseen Swift-aiheista.</td>
     </tr>
     <tr>
       <td style="text-align:left">Risto Viitanen</td>
-      <td style="text-align:left"><a href="https://willitai.com/">https://willitai.com/</a>
+      <td style="text-align:left"><a href="https://willitai.com/">URL</a>
       </td>
-      <td style="text-align:left"><a href="https://willitai.com/atom.xml">https://willitai.com/atom.xml</a>
+      <td style="text-align:left"><a href="https://willitai.com/atom.xml">RSS</a>
       </td>
       <td style="text-align:left">Blogi perinteisten algoritmien korvaamisesta huonoilla neuroverkkototeutuksilla</td>
     </tr>
     <tr>
       <td style="text-align:left">Tatu Sepp&#xE4;-Lassila</td>
-      <td style="text-align:left"><a href="https://tatusl.dev/">https://tatusl.dev/</a>
+      <td style="text-align:left"><a href="https://tatusl.dev/">URL</a>
       </td>
-      <td style="text-align:left"><a href="https://tatusl.dev/posts/index.xml">https://tatusl.dev/posts/index.xml</a>
+      <td style="text-align:left"><a href="https://tatusl.dev/posts/index.xml">RSS</a>
       </td>
       <td style="text-align:left">Yleist&#xE4; ATK-jutuista, p&#xE4;&#xE4;osin DevOps-kulmalla</td>
     </tr>
     <tr>
       <td style="text-align:left">Tero Veps&#xE4;l&#xE4;inen</td>
-      <td style="text-align:left"><a href="https://www.vepsalainen.eu/">https://www.vepsalainen.eu/</a>
+      <td style="text-align:left"><a href="https://www.vepsalainen.eu/">URL</a>
       </td>
-      <td style="text-align:left"><a href="https://vepsalainen.eu/index.xml">https://vepsalainen.eu/index.xml</a>
+      <td style="text-align:left"><a href="https://vepsalainen.eu/index.xml">RSS</a>
       </td>
       <td style="text-align:left">ATK-hommeleita, l&#xE4;hinn&#xE4; puuhastelutasolla. Lukeminen ei vaadi
         rajatonta pohjaosaamista.</td>
     </tr>
     <tr>
       <td style="text-align:left">Otto Rask</td>
-      <td style="text-align:left"><a href="https://www.ottorask.com/">https://www.ottorask.com/</a>
+      <td style="text-align:left"><a href="https://www.ottorask.com/">URL</a>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">osin aika harvakseltaan tulee kirjoteltua mitaan, devaamista ja omia harrastuksia</td>
