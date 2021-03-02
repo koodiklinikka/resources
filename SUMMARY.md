@@ -4,7 +4,7 @@
 * [Podcastit](podcastit.md)
 * [rc-car-for-kids](rc-car-for-kids.md)
 * [Slack-teema](slack-theme.md)
-* [Android-softaa](softaa-mobiili.md)
+* [Mobiilisovelluksia](softaa-mobiili.md)
 * [Webbisoftaa](softaa-web.md)
 * [YouTube-kanavia](youtube-channels.md)
 * [Koodiklinikkalaisten blogit](koodiklinikkalaisten-blogit.md)
