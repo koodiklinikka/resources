@@ -1,6 +1,8 @@
-# Webbisoftaa
+---
+description: Koodiklinikkalaisten hyväksi havaitsemia websovelluksia.
+---
 
-Eli sellaista jota voi käyttää selaimella jokseenkin alustariippumattomasti
+# Websovelluksia
 
 ## Toiminnanohjaus
 
@@ -10,6 +12,7 @@ Eli sellaista jota voi käyttää selaimella jokseenkin alustariippumattomasti
 | [Trello](https://trello.com/fi) | Yksinkertainen kanban |
 | [GitHub Projects](https://github.com/features/project-management/) | GitHubin kylkiäinen, Kanban etc. |
 | [ClickUp](https://clickup.com/) | Jotain Trellon ja Jiran väliltä, erilaisia näkymiä ja tikettitasoja. Omaksuttavissa päivässä-parissa. |
+| [Linear](https://linear.app/) | Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams. |
 
 ## Web-kehitys
 

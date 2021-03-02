@@ -5,7 +5,7 @@
 * [rc-car-for-kids](rc-car-for-kids.md)
 * [Slack-teema](slack-theme.md)
 * [Mobiilisovelluksia](softaa-mobiili.md)
-* [Webbisoftaa](softaa-web.md)
+* [Websovelluksia](softaa-web.md)
 * [YouTube-kanavia](youtube-channels.md)
 * [Koodiklinikkalaisten blogit](koodiklinikkalaisten-blogit.md)
 
