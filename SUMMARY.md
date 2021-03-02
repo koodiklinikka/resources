@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Koodiklinikka - Resources](README.md)
+* [Etusivu](README.md)
 * [Podcastit](podcastit.md)
 * [rc-car-for-kids](rc-car-for-kids.md)
 * [Slack-teema](slack-theme.md)
