@@ -115,6 +115,15 @@ RSS-feed on vapaaehtoinen, mutta suositeltava, koska monet tykkäävät käyttä
         komponenteista, softaprosesseista, tuotekeityksest&#xE4;, UX/UI, jne. Ja
         tietenkin Javasta.</td>
     </tr>
+    <tr>
+      <td style="text-align:left">Marko Wallin</td>
+      <td style="text-align:left"><a href="https://ruleoftech.com/">URL</a>
+      </td>
+      <td style="text-align:left"><a href="https://ruleoftech.com/feed">RSS</a>
+      </td>
+      <td style="text-align:left">Ohjelmistokehitykseen liittyvi&#xE4; juttuja ja linkkej&#xE4;, DevOps,
+        infosec, cloud painotuksella.</td>
+    </tr>
   </tbody>
 </table>
 
