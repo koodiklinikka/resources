@@ -105,6 +105,16 @@ RSS-feed on vapaaehtoinen, mutta suositeltava, koska monet tykkäävät käyttä
       <td style="text-align:left"></td>
       <td style="text-align:left">osin aika harvakseltaan tulee kirjoteltua mitaan, devaamista ja omia harrastuksia</td>
     </tr>
+    <tr>
+      <td style="text-align:left">jarirajari</td>
+      <td style="text-align:left"><a href="https://jarirajari.wordpress.com/">URL</a>
+      </td>
+      <td style="text-align:left"><a href="https://jarirajari.wordpress.com/feed/">RSS</a>
+      </td>
+      <td style="text-align:left">Kirjoitan ohjelmoinnista, konfiguraatioista sek&#xE4; komennoista, j&#xE4;rjestelmist&#xE4;,
+        komponenteista, softaprosesseista, tuotekeityksest&#xE4;, UX/UI, jne. Ja
+        tietenkin Javasta.</td>
+    </tr>
   </tbody>
 </table>
 
