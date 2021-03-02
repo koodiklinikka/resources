@@ -8,6 +8,7 @@
 | Suomi | [Koodarikuiskaaja](https://koodarikuiskaaja.fi/podcast/) | Koodarikuiskaajan podcast on tehty uteliaille teknisille asiantuntijoille, joita kiinnostavat vuorovaikutuksen ja itsetuntemuksen teemat. Jaksoissa käsitellään erilaisia teknologia-alan arkeen liittyviä ihmisaiheita ja vieraina on mielenkiintoisia tyyppejä. |
 | Suomi | [Koodia pinnan alla](https://koodiapinnanalla.fi/) | Suomenkielinen podcast pinnan alla tapahtuvasta ohjelmistoteknologian magiasta. |
 | Suomi | [Webbidevaus.fi](https://webbidevaus.fi) | Webbidevaus.fi -podcast on internetissä suunnilleen viikoittain ilmestyvä, web-kehityksestä kertova suomenkielinen puheradio-ohjelma |
+| Suomi | [Kahvit näppikselle](https://www.aalto.fi/fi/uutiset/kahvit-nappikselle-podcast-paljastaa-miten-tietotekniikka-liittyy-vahan-kaikkeen) | Kahvit näppikselle -podcast selittää, miten teknologia on avainasemassa ratkomassa hyvinkin erilaisia ongelmia. |
 | Englanti | Darknet Diaries | Tietoturvaan ja internetin pimeään puoleen liittyvää tutkintaa ja keskustelua |
 
 ## Humanistitieteet
