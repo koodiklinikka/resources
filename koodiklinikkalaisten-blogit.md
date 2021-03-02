@@ -6,6 +6,8 @@ Saat oman blogisi listalle \(tai pois sieltä\) tekemällä pull requestin [kood
 
 RSS-feed on vapaaehtoinen, mutta suositeltava, koska monet tykkäävät käyttää RSS-lukijoita blogien seuraamiseen.
 
+{% file src=".gitbook/assets/subscriptions.xml" caption="Voit tilata kaikki blogit kerralla OPML-formaatissa" %}
+
 <table>
   <thead>
     <tr>

@@ -1,0 +1,18 @@
+<opml version="2.0">
+	<body>
+		<outline text="Subscriptions" title="Subscriptions">
+			<outline xmlUrl='https://hamatti.org/feed/feed.xml' />
+<outline xmlUrl='https://survivejs.com/atom.xml' />
+<outline xmlUrl='https://www.karimarttila.fi/feed.xml' />
+<outline xmlUrl='https://olavihaapala.fi/feed.xml' />
+<outline xmlUrl='https://koodihommia.blogspot.com/atom.xml' />
+<outline xmlUrl='https://juripakaste.fi/atom.xml' />
+<outline xmlUrl='https://willitai.com/atom.xml' />
+<outline xmlUrl='https://tatusl.dev/posts/index.xml' />
+<outline xmlUrl='https://vepsalainen.eu/index.xml' />
+<outline xmlUrl='https://jarirajari.wordpress.com/feed/' />
+<outline xmlUrl='https://ruleoftech.com/feed' />
+	
+		</outline>
+	</body>
+</opml>
