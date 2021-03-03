@@ -33,6 +33,10 @@
 
 ### Koodaus
 
+| Nimi | Mitä |
+| :--- | :--- |
+| [Jaakko Alajoki](https://www.youtube.com/channel/UCkDlBAsudjAr4jLhMUz-cAw) | Vlogaamista "digitaalinen luovuus" teemalla, johon koodailuhommat kuuluu oleellisesti |
+
 ## Sijoittaminen
 
 | Nimi | Mitä |
