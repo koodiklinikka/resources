@@ -55,6 +55,7 @@
 | [Jomez Pro](https://www.youtube.com/channel/UC1Ho5YvHCtyReazatbhBowA) | Kanadalainen rakentelee käsipelillä mökkiä, saunaa jne. Hienoa kuvaa, ja jotenkin koukuttavan rentouttavaa |
 | [Pask Makes](https://www.youtube.com/channel/UC1Ho5YvHCtyReazatbhBowA) | woodwork/metalwork to photography/drawing |
 | [Rassooja](https://www.youtube.com/channel/UC1Ho5YvHCtyReazatbhBowA) | kokkailua ja ties mitä kaivurin johtosarjojen ja webastohäkkäilyjen touhuamisia |
+| [Andy Phillips](https://www.youtube.com/channel/UCDQz4H7tz6Fwu5_5rg4W6pA) | Todella rentouttavaa sorvausta. |
 
 ### Kokkaus
 
