@@ -8,5 +8,5 @@
 * [Websovelluksia](softaa-web.md)
 * [YouTube-kanavia](youtube-channels.md)
 * [Koodiklinikkalaisten blogit](koodiklinikkalaisten-blogit.md)
-* [#beer](beer.md)
+* [\#beer](beer.md)
 
