@@ -12,3 +12,4 @@
 | 🇳🇱 | [Bierloods22](https://www.bierloods22.nl/en/) | Oluita eri maista |
 | 🇩🇪 | [WeinBaule](http://www.weinbaule.de/) | Saksalaisia viinejä |
 | 🇭🇷 | [The Garden](https://thegarden.hr/shop/) | Kroatialaisia oluita |
+| 🇩🇰 | [Mikkeller Webshop](https://shop.mikkeller.dk/) | Oluita Mikkeller-pienpanimolta sekä muilta panimolta |
