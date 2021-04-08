@@ -106,7 +106,7 @@
 | [Pailin's Kitchen](https://www.youtube.com/user/PailinsKitchen) | Well made and informative South East Asian recipes |
 | [Pasta Grannies](https://www.youtube.com/user/pastagrannies) | Authentic and original pasta recipes from Italian villages |
 | [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983) | Various asian style recipes |
-| [Pihvimies](https://www.youtube.com/c/Pihvimies) | (Finnish) Steaks, meat curing etg |
+| [Pihvimies](https://www.youtube.com/c/Pihvimies) | \(Finnish\) Steaks, meat curing etg |
 | [Pro Home Cooks](https://www.youtube.com/user/BrothersGreenEats) | Entertaining and technical home recipes |
 | [Resepti](https://www.youtube.com/channel/UCyKSvsFi9LKxNKxMsUAuL_w) | Finnish home cooking |
 | [Souped up recipes](https://www.youtube.com/channel/UC3HjB3X8jeENm46HCkI0Inw) | Traditional chinese cooking |
