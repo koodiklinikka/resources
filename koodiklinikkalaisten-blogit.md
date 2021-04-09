@@ -143,6 +143,16 @@ RSS-feed on vapaaehtoinen, mutta suositeltava, koska monet tykkäävät käyttä
       <td style="text-align:left">V&#xE4;h&#xE4;n kaikenlaista maan ja taivaan v&#xE4;lilt&#xE4;. P&#xE4;&#xE4;osassa
         kuitenkin yhteis&#xF6;t, WordPress ja tietotekniikkaan liittyv&#xE4;t aiheet.</td>
     </tr>
+    <tr>
+      <td style="text-align:left">Jarno Virtanen</td>
+      <td style="text-align:left"><a href="https://buttondown.email/jajvirta">URL</a>
+      </td>
+      <td style="text-align:left"><a href="https://buttondown.email/jajvirta/rss">RSS</a>
+      </td>
+      <td style="text-align:left">Devaamisesta omia kokemuksia ja anekdootteja.</td>
+    </tr>
   </tbody>
 </table>
+
+
 
