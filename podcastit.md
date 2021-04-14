@@ -10,6 +10,10 @@
 | Suomi | [Webbidevaus.fi](https://webbidevaus.fi) | Webbidevaus.fi -podcast on internetissä suunnilleen viikoittain ilmestyvä, web-kehityksestä kertova suomenkielinen puheradio-ohjelma |
 | Suomi | [Kahvit näppikselle](https://www.aalto.fi/fi/uutiset/kahvit-nappikselle-podcast-paljastaa-miten-tietotekniikka-liittyy-vahan-kaikkeen) | Kahvit näppikselle -podcast selittää, miten teknologia on avainasemassa ratkomassa hyvinkin erilaisia ongelmia. |
 | Englanti | Darknet Diaries | Tietoturvaan ja internetin pimeään puoleen liittyvää tutkintaa ja keskustelua |
+| Suomi | [Softapodi](https://soundcloud.com/softapodi) | Puhutaan pehmeitä softasta |
+| Suomi | [ATK-hetki](https://atk-hetki.simplecast.com/) | Vesa Vänskä ja Antti Akonniemi keskustelevat teknologiasta, bisneksestä ja itsensä kehittämisestä. |
+| Englanti | [Syntax.fm](https://syntax.fm/) | Wes Bos ja Scott Tolinski puhuvat webbikehityksestä. |
+| Englanti | [Ladybug](https://www.ladybug.dev/) | Kelly Vaughn, Ali Spittel, Emma Bostian ja Sidney Buckner puhuvat ohjelmistokeityksestä ja työelämäasioista it-alalla. |
 
 ## Humanistitieteet
 
