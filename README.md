@@ -13,3 +13,4 @@ description: Kaiken maailman resursseja, joita Klinikka on hyväksi havainnut.
 * [Koodiklinikkalaisten blogit](koodiklinikkalaisten-blogit.md) - Listaus blogeista, joita jäsenet kirjoittavat
 * [#beer](beer.md) - Listaus hyväksi todettuja ulkomaisia alkoholiverkkokauppoja
 * [VS Code -extensionit](https://resources.koodiklinikka.fi/vs-code-extensionit) - Koodiklinikkalaisten suosikkilaajennokset
+* RSS-lukijoita
