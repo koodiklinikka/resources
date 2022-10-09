@@ -16,6 +16,7 @@
 | Suomi | [ATK-hetki](https://atk-hetki.simplecast.com/) | Vesa Vänskä ja Antti Akonniemi keskustelevat teknologiasta, bisneksestä ja itsensä kehittämisestä. |
 | Englanti | [Syntax.fm](https://syntax.fm/) | Wes Bos ja Scott Tolinski puhuvat webbikehityksestä. |
 | Englanti | [Ladybug](https://www.ladybug.dev/) | Kelly Vaughn, Ali Spittel, Emma Bostian ja Sidney Buckner puhuvat ohjelmistokeityksestä ja työelämäasioista it-alalla. |
+| Suomi | [Koodihuoneilmiö](https://www.koodihuoneilmio.fi/) | Tommi Jalkanen, Tommi Sinivuo - podcast kestävästä ohjelmistokehityksestä. |
 
 ## Humanistitieteet
 
