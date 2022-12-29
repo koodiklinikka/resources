@@ -18,7 +18,10 @@
 | 🇵🇱 | [Funky Shop](https://funkyshop.pl/en/) | Puolalaisen Funky Fluid -panimon verkkokauppa. Valikoimassa myös muiden valmistajien tuotteita. | 
 
 # \#beer mutta viinit
-| FI | [Viinitarha](https://viinitarha.app/) | Suomen viinilista by akx | Erinomainen filtteröinti |
+
+| Sijainti | Nimi | Mitä | Muuta |
+| :--- | :--- | :--- | :--- |
+| FI | [Viinitarha](https://viinitarha.app/) | Alkon viinitarjonta Viinilehden arvioimana by akx | Erinomainen filtteröinti |
 | FI | [AlkoApp](https://alko.tetrium.fi/) | Alkon viinit ja muut lasinpesunesteet | https://github.com/olahepelto/alko-app |
 | US/DK | [Vivino](https://www.vivino.com//) | Wine community startup | Myös mobiiliappikset |
 
