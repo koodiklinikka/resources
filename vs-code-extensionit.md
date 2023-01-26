@@ -83,7 +83,7 @@ description: >-
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
   - "Mark lines and jump to them."
 - [cursory-glance](https://marketplace.visualstudio.com/items?itemName=tuomassalo.cursory-glance)
-  - "VSCode extension that highlights the cursors when there are more than of them."
+  - "VSCode extension that highlights the cursors when there are more than one of them."
 - [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
   - "File-specific icons in VSCode for improved visual grepping." (_sidenote: set_ "workbench.tree.indent": 22 _for nicer look_)
 - [Gremlins tracker for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)
