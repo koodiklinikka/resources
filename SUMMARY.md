@@ -11,5 +11,5 @@
 * [#beer](beer.md)
 * [VS Code -extensionit](vs-code-extensionit.md)
 * [RSS-lukijoita](rss-lukijoita.md)
-* [Herkulliset reseptit #nom kanavalta](reseptit/)
+* [Herkulliset reseptit #nom kanavalta](herkulliset-reseptit-nom-kanavalta.md)
 * [Toimistotarvikkeet](toimisto.md)
