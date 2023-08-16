@@ -10,7 +10,7 @@ Olet saattanut törmätä tai saatat törmätä tulevaisuudessa klinikalla kesku
 
 Perjantaipingiä voi tavata luonnossa eri varianteissaan:
 
-<figure><img src=".gitbook/assets/pingejä.png" alt=""><figcaption><p>Eri perjantaipingi-variantteja</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pingejä.png" alt="Viisi eri pingivarianttiemojia: perjantai, mukava, ystävänpäivä, nopee ja happo"><figcaption><p>Eri perjantaipingi-variantteja</p></figcaption></figure>
 
 Tarina Perjantaipingin taustalla alkaa alkusyksystä 2021, kun herättelimme henkiin Koodiklinikalla aiempina vuosina pyöritettyä palkkakyselyä. Eräänä kauniina syysperjantaisena päivänä, allekirjoittanut eli Juhis, koki hyväksi ideaksi saavuttaa yhteisön kyselylle suurempaa tietoisuutta käyttämällä `@channel` -kanavapingiä.
 
@@ -26,8 +26,8 @@ Nykyään Perjantaipingi-emojia eri varianteissaan tulee vastaan hieman siellä 
 
 Vuosien varrella on syntynyt aiheen ympärille myös omaa meemikulttuuria.
 
-![](.gitbook/assets/marked-safe-from-perjantaipingi.jpg)![](.gitbook/assets/perjantaipingi-tuottavuus.jpg)
+![Marked Safe from Perjantaipingi Today](.gitbook/assets/marked-safe-from-perjantaipingi.jpg)![Animemeemi, jossa robotti on perjantaipingi ja pöydän alla piilotteleva, itkevä tyttöhahmo on klinikkalaisten tuottavuus.](.gitbook/assets/perjantaipingi-tuottavuus.jpg)
 
-![](.gitbook/assets/pizzakuponki.jpg)![](<.gitbook/assets/scoopy-doo (1).jpg>)
+![Kaksiosainen meemi, jossa ylemmässä osassa vihainen perjantaipingi emoji ja teksti Perjantaipingi. Alemmassa osassa hymyilevä perjantaipingiemoji ja teksti Pizzakuponki](.gitbook/assets/pizzakuponki.jpg)![Kaksipaneelinen Scooby Doo -meemi, jossa yläosassa naamioitunut Palkkakysely, jolta Koodiklinikka ottaa naamion pois ja kysyy "Mistäs tässä on kyse". Toisessa paneelissa naamion alta paljastuu perjantaipingi emoji ja Koodiklinikka-hahmo toteaa "Pitihän se arvata"](<.gitbook/assets/scoopy-doo (1).jpg>)
 
-![](.gitbook/assets/image.png)![](<.gitbook/assets/image (1).png>)
+![Kolmeosainen meemi, jossa ensimmäisessä kuvassa Simpsonien Moe heittää Perjantaimeemillä korvatun Barneyn ulos ravintolasta. Toisessa kuvassa taputtaa käsiään onnistuneen työn kunniaksi. Viimeisessä ruudussa perjantaipingi on takaisin baarissa Moen selän takana.](.gitbook/assets/image.png)![Kaksipaneelinen meemi, jossa yläosassa vihainen perjantaipingiemoji ja teksti "Ilkeä naljailu perjantaipingistä". Alaosassa hymyilevä perjantaipingiemoji ja teksti "Leppoisa meemeily perjantaipingistä"](<.gitbook/assets/image (1).png>)
