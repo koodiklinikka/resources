@@ -13,3 +13,4 @@
 * [RSS-lukijoita](rss-lukijoita.md)
 * [Herkulliset reseptit #nom kanavalta](herkulliset-reseptit-nom-kanavalta.md)
 * [Toimistotarvikkeet](toimisto.md)
+* [Perjantaipingi](perjantaipingi.md)
