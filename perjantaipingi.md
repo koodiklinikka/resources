@@ -16,7 +16,7 @@ Tarina Perjantaipingin taustalla alkaa alkusyksystä 2021, kun herättelimme hen
 
 Sen lisäksi että Koodiklinikalle saapui viestiä ihastelemaan moni, joka ei aktiivisesti viettänyt kanavilla aikaa, se aiheutti myös osassa käyttäjäkuntaa vähemmän mairittelevan reaktion ja sai aikaan ns. paskamyrskyn, kun näkemykset siitä milloin on soveltuvaa käyttää pingiä ja milloin ei erosivat merkittävästi.
 
-Suurinta tunnekuohua lievittämään saatiin onneksi tarjouskuponkeja pizzeriaan erään käyttäjän hankkimana, joten usein Perjantaipingistä puhuttaessa vilahtelee myös erinäisiä pizza-viittauksia.
+Suurinta tunnekuohua lievittämään saatiin onneksi tarjouskuponkeja pizzeriaan erään käyttäjän hankkimana, joten usein Perjantaipingistä puhuttaessa vilahtelee myös erinäisiä pizza-viittauksia. Perjantaipingi sai myös nimensä tästä alennuskupongista `PERJANTAIPINGI`.
 
 Vuoden mittaan Perjantaipingi alkoi muotoutua omaksi käsitteekseen erityisesti sen oman emojin kautta ja syksyllä 2022 palkkakyselyn alla asiasta jo vitsailtiin ja saattoi joku käyttäjä odottaa Perjantaipingiä kuin joulupukkia pikkulapsena.
 
