@@ -6,18 +6,25 @@ description: Koodiklinikkalaisten hyväksi havaitsemia websovelluksia.
 
 ## Toiminnanohjaus
 
-| Nimi | Mitä |
-| :--- | :--- |
-| [Jira](https://www.atlassian.com/fi/software/jira) | Hirviö joka taipuu lähes mihin tahansa, mutta vaatii substanssiosaamista tunkkauksen osalta |
-| [Trello](https://trello.com/fi) | Yksinkertainen kanban |
-| [GitHub Projects](https://github.com/features/project-management/) | GitHubin kylkiäinen, Kanban etc. |
-| [ClickUp](https://clickup.com/) | Jotain Trellon ja Jiran väliltä, erilaisia näkymiä ja tikettitasoja. Omaksuttavissa päivässä-parissa. |
-| [Linear](https://linear.app/) | Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams. |
+| Nimi                                                               | Mitä                                                                                                                |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| [Jira](https://www.atlassian.com/fi/software/jira)                 | Hirviö joka taipuu lähes mihin tahansa, mutta vaatii substanssiosaamista tunkkauksen osalta                         |
+| [Trello](https://trello.com/fi)                                    | Yksinkertainen kanban                                                                                               |
+| [GitHub Projects](https://github.com/features/project-management/) | GitHubin kylkiäinen, Kanban etc.                                                                                    |
+| [ClickUp](https://clickup.com/)                                    | Jotain Trellon ja Jiran väliltä, erilaisia näkymiä ja tikettitasoja. Omaksuttavissa päivässä-parissa.               |
+| [Linear](https://linear.app/)                                      | Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams. |
 
 ## Web-kehitys
 
-| Nimi | Mitä |
-| :--- | :--- |
+| Nimi                                           | Mitä                                    |
+| ---------------------------------------------- | --------------------------------------- |
 | [Neumorphism](https://neumorphism.io/#ffffff/) | Visuaalinen nettisivun CSS tyylityökalu |
-| [Netlify](https://www.netlify.com/) | Toimiva nettisivu hosting-alusta |
+| [Netlify](https://www.netlify.com/)            | Toimiva nettisivu hosting-alusta        |
 
+### Kaavioiden piirtelyä
+
+| Nimi                                  | Mitä                                                                                                                                                                                                               |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Draw.io](https://app.diagrams.net/)  | Ilmainen työkalu kaavioiden piirtelyyn. Synkkaa hyvin esim Google Driven tai Confluencen kanssa. VS Codeen saatavilla [Draw.io-plugari](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio). |
+| [Excalidraw](https://excalidraw.com/) | Ilmainen työkalu myöskin. Mahdollistaa suoran kollaboraation Live-linkkiä jakamalla.                                                                                                                               |
+|                                       |                                                                                                                                                                                                                    |
