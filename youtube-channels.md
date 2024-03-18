@@ -6,30 +6,30 @@
 
 | Nimi | Mitä |
 | :--- | :--- |
-| [USENIX](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg/videos) |  |
-| [CNCF](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg/videos) | Cloud Native Computing Foundation |
-| [Kubernetes](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg/videos) |  |
+| [USENIX](https://www.youtube.com/user/USENIXAssociation) |  |
+| [CNCF](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA/) | Cloud Native Computing Foundation |
+| [Kubernetes](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg) |  |
 
 ### Tietoturva
 
 | Nimi | Mitä |
 | :--- | :--- |
-| [gamozolabs](https://www.youtube.com/channel/UCGJaDZC7PChgd-XMwcbZkiw) |  |
-| [IppSec](https://www.youtube.com/channel/UCGJaDZC7PChgd-XMwcbZkiw) |  |
-| [Hak5](https://www.youtube.com/channel/UCGJaDZC7PChgd-XMwcbZkiw) | Put together by a band of IT ninjas, security professionals and hardcore gamers, Hak5 isn't your typical tech show. We take on hacking in the old-school sense. |
+| [gamozolabs](https://www.youtube.com/user/gamozolabs) |  |
+| [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) |  |
+| [Hak5](https://www.youtube.com/user/Hak5Darren) | Put together by a band of IT ninjas, security professionals and hardcore gamers, Hak5 isn't your typical tech show. We take on hacking in the old-school sense. |
 
 ### ATK
 
 | Nimi | Mitä |
 | :--- | :--- |
-| [GOTO Conferences](https://www.youtube.com/channel/UCGJaDZC7PChgd-XMwcbZkiw) |  |
+| [GOTO Conferences](https://www.youtube.com/user/GotoConferences/) |  |
 | [Rocket Jump Ninja](https://www.youtube.com/channel/UCGJaDZC7PChgd-XMwcbZkiw) |  |
-| [Hardware Canucks](https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ) | focused on everything on tech |
-| [HDTV Test](https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ) | TV-testejä |
-| [Gamers Nexus](https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ) | PC hardware reviews, game benchmarks, component analysis. |
+| [Hardware Canucks](https://www.youtube.com/channel/UCTzLRZUgelatKZ4nyIKcAbg) | focused on everything on tech |
+| [HDTV Test](UCcCYOO2uYPnG-21WDOWdwew) | TV-testejä |
+| [Gamers Nexus](https://www.youtube.com/channel/UChIs72whgZI9w6d6FhwGGHA) | PC hardware reviews, game benchmarks, component analysis. |
 | [Paul's Hardware](https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ) | Tech reviews, tutorials, PC hardware and do-it-yourself computer building |
-| [Bitwit](https://www.youtube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA) | That which is boxed must be unboxed. Unless it's filled with snakes. Don't open that. |
-| [randomfrankp](https://www.youtube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA) | Host of "Room Tour Project" • Tech Reviews • Gaming Setups |
+| [Bitwit](https://www.youtube.com/channel/UCftcLVz-jtPXoH3cWUUDwYw) | That which is boxed must be unboxed. Unless it's filled with snakes. Don't open that. |
+| [randomfrankp](https://www.youtube.com/channel/UChnN9MPURwKV2PbEoT2vhTQ) | Host of "Room Tour Project" • Tech Reviews • Gaming Setups |
 
 ### Koodaus
 
@@ -43,7 +43,7 @@
 | :--- | :--- |
 | [Nordnet Suomi](https://www.youtube.com/channel/UCcgHKsmue8JJGSRsBgcWhVg) | Kiinnostaako sijoittaminen? Haluaisitko oppia lisää sijoittamisesta? Nordnet Suomen Youtube-kanavalta löydät opetusvideoita, tapahtumatataltiointeja, sijoittamiseen liittyviä vinkkejä ja muita ajankohtaisia säästämiseen ja sijoittamiseen liittyviä videoita |
 | [inderesTV](https://www.youtube.com/channel/UCA8t6FufzhadZJZBXiYW8jQ) | Inderes poimii sijoittajille parhaat sijoituskohteet. Inderesin Youtube-kanavalla on videoita osakkeista ja pörssiyhtiöistä. |
-| [Humbled Trader](https://www.youtube.com/channel/UCA8t6FufzhadZJZBXiYW8jQ) |  |
+| [Humbled Trader](https://www.youtube.com/channel/UCcIvNGMBSQWwo1v3n-ZRBCw) |  |
 | [Ben Felix](https://www.youtube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA) | Common Sense Investing is about sensible investing and financial decision making for Canadians, or anyone else that can put up with my Canadian focus. |
 
 ## Viihde
@@ -52,18 +52,18 @@
 
 | Nimi | Mitä |
 | :--- | :--- |
-| [Jomez Pro](https://www.youtube.com/channel/UC1Ho5YvHCtyReazatbhBowA) | Kanadalainen rakentelee käsipelillä mökkiä, saunaa jne. Hienoa kuvaa, ja jotenkin koukuttavan rentouttavaa |
-| [Pask Makes](https://www.youtube.com/channel/UC1Ho5YvHCtyReazatbhBowA) | woodwork/metalwork to photography/drawing |
-| [Rassooja](https://www.youtube.com/channel/UC1Ho5YvHCtyReazatbhBowA) | kokkailua ja ties mitä kaivurin johtosarjojen ja webastohäkkäilyjen touhuamisia |
+| [Jomez Pro](https://www.youtube.com/user/JomezProductions) | Kanadalainen rakentelee käsipelillä mökkiä, saunaa jne. Hienoa kuvaa, ja jotenkin koukuttavan rentouttavaa |
+| [Pask Makes](https://www.youtube.com/channel/UCNyGbxoEo6CQvaRVEvItxkA) | woodwork/metalwork to photography/drawing |
+| [Rassooja](https://www.youtube.com/channel/UCFj0zvib1LFAcpu3B5bh9Hg) | kokkailua ja ties mitä kaivurin johtosarjojen ja webastohäkkäilyjen touhuamisia |
 | [Andy Phillips](https://www.youtube.com/channel/UCDQz4H7tz6Fwu5_5rg4W6pA) | Todella rentouttavaa sorvausta. |
 
 ### Kokkaus
 
 | Nimi | Mitä |
 | :--- | :--- |
-| [Adam Ragusea](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg/videos) | Very focused technical cooking |
-| [French Guy Cooking](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg/videos) | Technical cooking with extreme dedication to perfectionism |
-| [Alla](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg/videos) | High quality deserts with some light healthy dishes as well |
+| [Adam Ragusea](https://www.youtube.com/user/aragusea) | Very focused technical cooking |
+| [French Guy Cooking](https://www.youtube.com/user/FrenchGuyCooking) | Technical cooking with extreme dedication to perfectionism |
+| [Alla](https://www.youtube.com/user/AllasYummyFood) | High quality deserts with some light healthy dishes as well |
 | [AllRecipes UK & Ireland](https://www.youtube.com/user/AllrecipesUK) | Short everyday recipes |
 | [Alton Brown](https://www.youtube.com/channel/UCfDNi1aEljAQ17mUrfUjkvg) | Entertaining cooking |
 | [Babish](https://www.youtube.com/user/bgfilms) | Highly technical cooking |
@@ -120,7 +120,7 @@
 
 | Nimi | Mitä |
 | :--- | :--- |
-| [ATHLEAN-X™](https://www.youtube.com/channel/UC1Ho5YvHCtyReazatbhBowA) | JDCav24 is the home of ATHLEAN-X™ on YouTube!  This is where you can find all the latest FREE workouts, nutrition and supplement advice to get you on your way to ripped 6 pack abs and a more muscular, athletic body in record time. |
+| [ATHLEAN-X™](https://www.youtube.com/channel/UCe0TLA0EsQbE-MjuHXevj2A) | JDCav24 is the home of ATHLEAN-X™ on YouTube!  This is where you can find all the latest FREE workouts, nutrition and supplement advice to get you on your way to ripped 6 pack abs and a more muscular, athletic body in record time. |
 | [Stomp It Tutorials](https://www.youtube.com/channel/UC1Ho5YvHCtyReazatbhBowA) | Laskettelun opetusvideoita |
 
 ### Viihde-viihde
