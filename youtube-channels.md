@@ -25,7 +25,7 @@
 | [GOTO Conferences](https://www.youtube.com/user/GotoConferences/) |  |
 | [Rocket Jump Ninja](https://www.youtube.com/channel/UCGJaDZC7PChgd-XMwcbZkiw) |  |
 | [Hardware Canucks](https://www.youtube.com/channel/UCTzLRZUgelatKZ4nyIKcAbg) | focused on everything on tech |
-| [HDTV Test](UCcCYOO2uYPnG-21WDOWdwew) | TV-testejä |
+| [HDTV Test](https://www.youtube.com/channel/UCcCYOO2uYPnG-21WDOWdwew) | TV-testejä |
 | [Gamers Nexus](https://www.youtube.com/channel/UChIs72whgZI9w6d6FhwGGHA) | PC hardware reviews, game benchmarks, component analysis. |
 | [Paul's Hardware](https://www.youtube.com/channel/UCvWWf-LYjaujE50iYai8WgQ) | Tech reviews, tutorials, PC hardware and do-it-yourself computer building |
 | [Bitwit](https://www.youtube.com/channel/UCftcLVz-jtPXoH3cWUUDwYw) | That which is boxed must be unboxed. Unless it's filled with snakes. Don't open that. |
@@ -72,7 +72,6 @@
 | [Byron Talbott](https://www.youtube.com/user/ByronTalbott) | Professional chef shows some everyday cooking |
 | [Chef Steps](https://www.youtube.com/user/chefsteps) | Short professional recipes |
 | [Chinese Cooking Demystified](https://www.youtube.com/channel/UC54SLBnD5k5U3Q6N__UjbAw) | Authentic Chinese cooking |
-| [Cookat](https://www.youtube.com/channel/UCBAYajvDy1-R8D0aaPaleaw) | Very short asian style recipes |
 | [Cooking in Russia](https://www.youtube.com/user/CookinginRussia) | American chef shows some professional restaurant recipes |
 | [Edgy Veg](https://www.youtube.com/user/stillcurrentstudios) | Vegan recipes |
 | [Emmas Goodies](https://www.youtube.com/user/emmasgoodies) | Short recipes, mostly deserts |
