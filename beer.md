@@ -9,7 +9,6 @@
 | 🇫🇷 | [Avenue des Vins](http://avenuedesvins.fr/) | Ranskalaisia viinejä |
 | 🇳🇱 | [Hoptimaal](https://www.hoptimaal.com/) | Oluita eri maista | Toimitus 21,95€, yli 150€ tilaukseen 10€ ja yli 200€ ilmaiseksi. Tilaukset kerryttävät palkintopisteitä, joilla voi lunastaa lahjakortteja. |
 | 🇳🇱 | [Bierloods22](https://www.bierloods22.nl/en/) | Oluita eri maista | Ei toimitusta Suomeen tällä hetkellä |
-
 | 🇩🇪 | [WeinBaule](http://www.weinbaule.de/) | Saksalaisia viinejä |
 | 🇭🇷 | [The Garden](https://thegarden.hr/shop/) | Kroatialaisia oluita | Ei toimitusta Suomeen tällä hetkellä |
 | 🇩🇪 | [Web-Bier](http://www.web-bier.de/) | Saksalaisia oluita |
