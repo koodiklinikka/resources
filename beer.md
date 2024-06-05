@@ -7,7 +7,6 @@
 | 🇳🇱 | [Beer Republic](https://beerrepublic.eu/) | Amerikkalaisia oluita. Toimituskulut 28,50€ |
 | 🇩🇪 | [Discandoo](https://www.discandooo.com/) | Alkoholia ja elintarvikkeita |
 | 🇫🇷 | [Avenue des Vins](http://avenuedesvins.fr/) | Ranskalaisia viinejä |
-| 🇧🇪 | [Belgian happiness](https://www.belgianhappiness.com/en) | Belgialaisia oluita |
 | 🇳🇱 | [Hoptimaal](https://www.hoptimaal.com/) | Oluita eri maista | Toimitus 21,95€, yli 150€ tilaukseen 10€ ja yli 200€ ilmaiseksi. Tilaukset kerryttävät palkintopisteitä, joilla voi lunastaa lahjakortteja. |
 | 🇩🇪 | [WeinBaule](http://www.weinbaule.de/) | Saksalaisia viinejä |
 | 🇭🇷 | [The Garden](https://thegarden.hr/shop/) | Kroatialaisia oluita |
