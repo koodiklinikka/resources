@@ -24,6 +24,9 @@ Nykyään pitää ostaa välittäjän kautta ja välittäjä ottaa jotain markup
 On mahdollista ryhtyä itse välittäjäksi itselleen, jos selviää lievästä byrokratiasta:
 [ilmoittautuminen välittäjäksi](https://www.traficom.fi/fi/viestinta/fi-verkkotunnukset/verkkotunnusvalittajalle/fi-verkkotunnusvalittajaksi-ilmoittautuminen),
 [IKI ry:n ohjeisto sen omaan välitystoimintaan](https://ikiwiki.iki.fi/yhdistys/ikigpv). 
+Huomaa, että vuodesta 2026 alkaen verkkotunnusvälittäjille on
+[kaavailtu](https://www.lausuntopalvelu.fi/FI/Proposal/Participation?proposalId=bb3cd297-6c3b-456e-b647-e434208148ef)
+400 euron vuosimaksua.
 
 ## .com yms
 
