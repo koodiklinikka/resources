@@ -15,3 +15,4 @@ description: Kaiken maailman resursseja, joita Klinikka on hyväksi havainnut.
 * [VS Code -extensionit](https://resources.koodiklinikka.fi/vs-code-extensionit) - Koodiklinikkalaisten suosikkilaajennokset
 * [RSS-lukijoita](rss-lukijoita.md) - klinikkalaisten suositukset RSS-lukijoista
 * [Toimistotarvikkeet (mm LG C2)](toimisto.md)
+* [Verkkotunnusvälittäjät](verkkotunnusvalittajat.md)
