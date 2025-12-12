@@ -16,3 +16,4 @@ description: Kaiken maailman resursseja, joita Klinikka on hyväksi havainnut.
 * [RSS-lukijoita](rss-lukijoita.md) - klinikkalaisten suositukset RSS-lukijoista
 * [Toimistotarvikkeet (mm LG C2)](toimisto.md)
 * [Verkkotunnusvälittäjät](verkkotunnusvalittajat.md)
+* [HTTP-clientit](http-clientit.md)
