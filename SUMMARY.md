@@ -16,3 +16,4 @@
 * [Perjantaipingi](perjantaipingi.md)
 * [Bluesky Starter Kit](bluesky-starter-kit.md)
 * [Verkkotunnusvälittäjät](verkkotunnusvalittajat.md)
+* [HTTP-clientit](http-clientit.md)
