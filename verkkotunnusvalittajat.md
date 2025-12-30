@@ -9,14 +9,15 @@ Monesti alennushinta koskee ensimmäistä vuotta ja myöhempinä vuosina makseta
 
 ## .fi -verkkotunnukset
 
-Koodiklinikan keskusteluissa suositeltuja tai vähintään mainittuja välittäjiä:
+Koodiklinikan keskusteluissa suositeltuja välittäjiä:
 
-- http://zone.ee/
-- https://www.domainhotelli.fi/
-- https://nordname.com/domains
-- https://joker.com/
-- http://shellit.org/
-- https://www.hostaan.fi/verkkotunnukset/
+- <https://zone.ee/>
+- <https://www.domainhotelli.fi/>
+- <https://nordname.com/domains>
+- <https://joker.com/>
+- <https://www.hostaan.fi/verkkotunnukset/>
+- <https://www.netim.com/>, alennusta [reseller-ohjelmalla](https://www.netim.com/en/reseller-program)
+- [AWS](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-register.html#domain-register-procedure-section)
 
 Vanhoina hyvinä aikoina verkkotunnuksen sai ostettua suoraan Traficomin edeltäjältä Viestintävirastolta.
 Nykyään pitää ostaa välittäjän kautta ja välittäjä ottaa jotain markuppia viranomaismaksun (tällä hetkellä 9 € vuodessa) päälle.
@@ -24,14 +25,15 @@ Nykyään pitää ostaa välittäjän kautta ja välittäjä ottaa jotain markup
 On mahdollista ryhtyä itse välittäjäksi itselleen, jos selviää lievästä byrokratiasta:
 [ilmoittautuminen välittäjäksi](https://www.traficom.fi/fi/viestinta/fi-verkkotunnukset/verkkotunnusvalittajalle/fi-verkkotunnusvalittajaksi-ilmoittautuminen),
 [IKI ry:n ohjeisto sen omaan välitystoimintaan](https://ikiwiki.iki.fi/yhdistys/ikigpv). 
-Huomaa, että vuodesta 2026 alkaen verkkotunnusvälittäjille on
+Vuodesta 2026 alkaen
 [kaavailtu](https://www.lausuntopalvelu.fi/FI/Proposal/Participation?proposalId=bb3cd297-6c3b-456e-b647-e434208148ef)
-400 euron vuosimaksua.
+satojen eurojen vuosimaksu ei tullut voimaan, vaan tunnusten hinnat nousevat
+[jonkin verran](https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2025/1338#OT6).
 
 ## .com yms
 
-Koodiklinikan keskusteluissa suositeltuja tai vähintään mainittuja välittäjiä:
+Edellä mainitut välittäjät myyvät muitakin kuin fi-tunnuksia.
+Muita suositeltuja välittäjiä:
 
-- https://www.cloudflare.com/products/registrar/ (ei lisää markuppia hintoihin mutta joudut ottamaan nimipalvelun Cloudflarelta)
-- https://www.namecheap.com/
-- https://joker.com
+- <https://www.cloudflare.com/products/registrar/> (ei lisää markuppia hintoihin mutta joudut ottamaan nimipalvelun Cloudflarelta)
+- <https://www.namecheap.com/>
