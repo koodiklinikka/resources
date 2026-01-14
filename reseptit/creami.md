@@ -31,6 +31,15 @@ Sauvasekoittimella tasaiseksi
 
 (~400 kcal per container, ~2€)
 
+### Tyrnisorbetti
+
+- 1 pakastepussi tyrniä
+- Puoli litraa viinirypäleitä
+- Vettä blendaamiseen tarpeen mukaan
+- Makeutus maun mukaan (esim 1-2 rkl sokeria)
+
+Blenderissä tai sauvasekoittimella sileäksi, Creamin sorbettisetting
+
 ## Alternative Thickeners
 
 - **Collagen**: Creates creamy texture, flavorless, more expensive (~30€/kg)
