@@ -1,6 +1,8 @@
 # Ninja Creami Deluxe
 
-## Basic Protein Ice Cream Recipe
+## Recipes
+
+### Basic Protein Ice Cream Recipe
  
 - 3.5 dl low-fat milk
 - 1.5-2 scoops protein powder (Gold Standard Extreme Milk Shake recommended)
@@ -11,11 +13,28 @@
 - Let sit 10 min at room temperature to settle
 - Freeze for 24 hours
 
+### Tommin Oma Paras Tähän Asti
+
+- 3dl maito
+- 1dl kondensoitu maito
+- 30g vanilja hera 
+- Ksantaani + Cream Fix 
+- Piparkakkumauste
+
+Sauvasekoittimella tasaiseksi
+
+### Sport Life Protein Pudding Ice Cream
+
+- 20g Sport Life Protein Pudding powder
+- 30g whey protein
+- 5dl low-fat milk
+
+(~400 kcal per container, ~2€)
+
 ## Alternative Thickeners
 
 - **Collagen**: Creates creamy texture, flavorless, more expensive (~30€/kg)
 - **Vanilla pudding powder**: 3 tbsp, adds flavor and sugar, cheaper (~10€/kg)
-- **Sport Life Protein Pudding powder**: 20g + 30g whey protein + 5dl low-fat milk (~400 kcal per container, ~2€)
 
 ## Kid-Friendly Recipes
 
